@@ -1,0 +1,34 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ProjectcourseApplication<05-FivethProject>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "co.edu.ue.projectcourse.ProjectcourseApplication",
+            "projectName": "05-FivethProject",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-ProjectcourseApplication<co.edu.ue-06-SixthProject>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "co.edu.ue.projectcourse.ProjectcourseApplication",
+            "projectName": "co.edu.ue-06-SixthProject",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-ProjectcourseApplication<07-SeventhProject>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "co.edu.ue.projectcourse.ProjectcourseApplication",
+            "projectName": "07-SeventhProject",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
